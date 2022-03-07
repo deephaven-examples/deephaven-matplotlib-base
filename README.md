@@ -3,9 +3,9 @@
 
 This repository integrates [Deephaven](https://deephaven.io/) with [matplotlib](https://matplotlib.org/), a plotting library for the [Python](https://www.python.org/) programming language.
 
-First, make sure you have all the needed dependancies to [Launch Deephaven from pre-built images](https://deephaven.io/core/docs/tutorials/quickstart/).
+First, make sure you have all the needed dependencies to [Launch Deephaven from pre-built images](https://deephaven.io/core/docs/tutorials/quickstart/).
 
-To clone this repo and get started all you need to run is:
+To clone this repo and get started, run:
 
 ```
 git clone https://github.com/deephaven-examples/deephaven-matplotlib-base.git
@@ -13,7 +13,7 @@ cd deephaven-matplotlib-base
 docker-compose up -d
 ```
 
-This start the Deephaven IDE with all needed packages.
+This starts the Deephaven IDE with all the needed packages.
 
 Navigate to [http://localhost:10000/ide](http://localhost:10000/ide) to enter your matplotlib query:
 
@@ -32,4 +32,4 @@ plt.legend(['line 1'])
 m_figure=plt.gcf()
 ```
 
-Your new plot will appear in the IDE.
+Your new plot will appear in the IDE!
