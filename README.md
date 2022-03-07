@@ -20,7 +20,7 @@ Navigate to [http://localhost:10000/ide](http://localhost:10000/ide) to enter yo
 ```python
 import matplotlib.pyplot as plt
 
-
+plt.figure()
 x = [0, 2, 4, 6]
 y = [1, 3, 4, 8]
 plt.plot(x, y)
