@@ -33,3 +33,5 @@ m_figure=plt.gcf()
 ```
 
 Your new plot will appear in the IDE!
+
+The 3D examples in this readme are from [Rashida Nasrin Sucky](https://towardsdatascience.com/five-advanced-plots-in-python-matplotlib-134bfdaeeb86) the data is available from [kaggle](https://www.kaggle.com/fazilbtopal/auto85)
