@@ -1,3 +1,5 @@
+def z_function(x, y):
+    return np.sin(np.sqrt(x**2 + y**2))
 plt.figure(figsize=(8, 8))
 ax = plt.axes(projection="3d")
 x = df['peak-rpm']
