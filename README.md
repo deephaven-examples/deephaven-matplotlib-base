@@ -10,7 +10,7 @@ To clone this repo and get started all you need to run is:
 ```
 git clone https://github.com/deephaven-examples/deephaven-matplotlib-base.git
 cd deephaven-matplotlib-base
-docker-compose up -d
+docker-compose up  --build -d
 ```
 
 This start the Deephaven IDE with all needed packages.
