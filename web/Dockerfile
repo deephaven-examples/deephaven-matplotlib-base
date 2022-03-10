@@ -1,5 +1,5 @@
 # Pull the web-plugin-packager image
-FROM ghcr.io/deephaven/web-plugin-packager:main as build
+FROM ghcr.io/deephaven/web-plugin-packager:latest as build
 
 
 # Specify the plugins you wish to use. You can specify multiple plugins separated by a space, and optionally include the version number, e.g.
