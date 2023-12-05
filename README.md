@@ -38,3 +38,7 @@ m_figure=plt.gcf()
 ```
 
 Your new plot will appear in the IDE!
+
+## Note
+
+The code in this repository is built for Deephaven Community Core v0.18.0. No guarantee of forwards or backwards compatibility is given.
