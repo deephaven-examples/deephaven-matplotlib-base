@@ -30,6 +30,10 @@ plt.ylabel('y values')
 plt.title('plotted x and y values')
 plt.legend(['line 1'])
 
+## Note
+
+The code in this repository is built for Deephaven Community Core v0.18.0. No guarantee of forwards or backwards compatibility is given.
+
 m_figure=plt.gcf()
 ```
 
